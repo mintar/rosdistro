@@ -168,6 +168,40 @@ mercurial:
   osx:
     pip:
       packages: [mercurial]
+meshrender:
+  alpine:
+    pip:
+      packages: [meshrender]
+  arch:
+    pip:
+      packages: [meshrender]
+  debian:
+    pip:
+      packages: [meshrender]
+  fedora:
+    pip:
+      packages: [meshrender]
+  freebsd:
+    pip:
+      packages: [meshrender]
+  gentoo:
+    pip:
+      packages: [meshrender]
+  macports:
+    pip:
+      packages: [meshrender]
+  opensuse:
+    pip:
+      packages: [meshrender]
+  osx:
+    pip:
+      packages: [meshrender]
+  rhel:
+    pip:
+      packages: [meshrender]
+  ubuntu:
+    pip:
+      packages: [meshrender]
 paramiko:
   alpine: [py-paramiko]
   arch: [python2-paramiko]
